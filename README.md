@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zainab Mohamed</h1>
-<h3 align="center">A passionate about frontend development and data science</h3>
+<h3 align="center">I am passionate about frontend development and data science</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainab0121" alt="zainab0121" /></a> </p>
 
